@@ -28,4 +28,6 @@ This project is focused on predicting stock prices using a Long Short-Term Memor
 ---
 
 ## 📁 Folder Structure
+## here is a link of my priject 
+https://colab.research.google.com/drive/1J4r_hBH_pcHjNSSIwfJ9_S6eoDoprnOl#scrollTo=2A0SQlDPTW6u
 
